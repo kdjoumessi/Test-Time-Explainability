@@ -14,5 +14,5 @@ The models weights can be downloaded here
 - [ResNet-50 trained for pneunomia detection from the RSNA dataset](xxxx)
 
 ## From black box to explainable model
-[jupyter noteobok](TTE-CAM.ipynb)
+[jupyter notebook](TTE-CAM.ipynb)
 
